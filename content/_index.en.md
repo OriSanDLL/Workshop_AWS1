@@ -10,7 +10,7 @@ chapter : false
 
 In this Workshop, practical guidance for securing Amazon VPC will be covered. It is aimed at cloud architects, system administrators, network administrators, and security administrators who are responsible for designing, developing, and running services in AWS.
 
-Therefore, you must know the basics such as subnets, security groups, VPC flow logs. The focus will be on the range of services and additional features that AWS provides to allow you to operate VPC securely. Here, AWS Network Firewall, VPC Network Access Analyzer, Amazon Route 53 Resolver DNS Firewall, AWS Systems Manager, Traffic Mirroring, AWS WAF, Gateway Load Balancer, etc., will be covered. IPv6 will also be used in some labs - but don't worry, the Workshop is ready to help!
+Therefore, you must know the basics such as subnets, security groups, VPC flow logs. The focus will be on the range of services and additional features that AWS provides to allow you to operate VPC securely. Here, AWS Network Firewall, VPC Network Access Analyzer, Amazon Route 53 Resolver DNS Firewall, AWS Systems Manager, Traffic Mirroring, AWS WAF, Gateway Load Balancer, etc., will be covered. IPv6 will also be used in some labs - but don't worry, please read and follow each step to better understand and master the knowledge!
 
 All examples given will follow best practices for securing, designing, and managing Amazon VPC. Ultimately, you should have an understanding of how and why each of these can be used, and the knowledge needed to apply what you have learned to your own environment.
 
