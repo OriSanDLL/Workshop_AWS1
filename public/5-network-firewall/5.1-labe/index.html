@@ -7,26 +7,26 @@
     <meta name="description" content="">
 <meta name="author" content="journeyoftheaverageguy@gmail.com">
 
-    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="icon" href="https://orisandll.github.io/Workshop_AWS1/images/favicon.png" type="image/png">
 
     <title>Lab E: Setting the routing for AWS Network Firewall :: WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
 
     
-    <link href="/css/nucleus.css?1726763195" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1726763195" rel="stylesheet">
-    <link href="/css/hybrid.css?1726763195" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1726763195" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1726763195" rel="stylesheet">
-    <link href="/css/auto-complete.css?1726763195" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1726763195" rel="stylesheet">
-    <link href="/css/theme.css?1726763195" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1726763195" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/nucleus.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/fontawesome-all.min.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/hybrid.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/featherlight.min.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/perfect-scrollbar.min.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/auto-complete.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/atom-one-dark-reasonable.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/theme.css?1726763333" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/hugo-theme.css?1726763333" rel="stylesheet">
     
-    <link href="/css/theme-workshop.css?1726763195" rel="stylesheet">
+    <link href="https://orisandll.github.io/Workshop_AWS1/css/theme-workshop.css?1726763333" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1726763195"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/jquery-3.3.1.min.js?1726763333"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -36,14 +36,14 @@
     </style>
     
   </head>
-  <body class="" data-url="/5-network-firewall/5.1-labe/">
+  <body class="" data-url="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
 
   <div id="header-wrapper">
     <div id="header">
-      <a id="logo" href="/">
+      <a id="logo" href="https://orisandll.github.io/Workshop_AWS1/">
 
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30" width="30%"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#f90;fill-rule:evenodd;}</style></defs><title>AWS-Logo_White-Color</title><path class="cls-1" d="M14.09,10.85a4.7,4.7,0,0,0,.19,1.48,7.73,7.73,0,0,0,.54,1.19.77.77,0,0,1,.12.38.64.64,0,0,1-.32.49l-1,.7a.83.83,0,0,1-.44.15.69.69,0,0,1-.49-.23,3.8,3.8,0,0,1-.6-.77q-.25-.42-.51-1a6.14,6.14,0,0,1-4.89,2.3,4.54,4.54,0,0,1-3.32-1.19,4.27,4.27,0,0,1-1.22-3.2A4.28,4.28,0,0,1,3.61,7.75,6.06,6.06,0,0,1,7.69,6.46a12.47,12.47,0,0,1,1.76.13q.92.13,1.91.36V5.73a3.65,3.65,0,0,0-.79-2.66A3.81,3.81,0,0,0,7.86,2.3a7.71,7.71,0,0,0-1.79.22,12.78,12.78,0,0,0-1.79.57,4.55,4.55,0,0,1-.58.22l-.26,0q-.35,0-.35-.52V2a1.09,1.09,0,0,1,.12-.58,1.2,1.2,0,0,1,.47-.35A10.88,10.88,0,0,1,5.77.32,10.19,10.19,0,0,1,8.36,0a6,6,0,0,1,4.35,1.35,5.49,5.49,0,0,1,1.38,4.09ZM7.34,13.38a5.36,5.36,0,0,0,1.72-.31A3.63,3.63,0,0,0,10.63,12,2.62,2.62,0,0,0,11.19,11a5.63,5.63,0,0,0,.16-1.44v-.7a14.35,14.35,0,0,0-1.53-.28,12.37,12.37,0,0,0-1.56-.1,3.84,3.84,0,0,0-2.47.67A2.34,2.34,0,0,0,5,11a2.35,2.35,0,0,0,.61,1.76A2.4,2.4,0,0,0,7.34,13.38Zm13.35,1.8a1,1,0,0,1-.64-.16,1.3,1.3,0,0,1-.35-.65L15.81,1.51a3,3,0,0,1-.15-.67.36.36,0,0,1,.41-.41H17.7a1,1,0,0,1,.65.16,1.4,1.4,0,0,1,.33.65l2.79,11,2.59-11A1.17,1.17,0,0,1,24.39.6a1.1,1.1,0,0,1,.67-.16H26.4a1.1,1.1,0,0,1,.67.16,1.17,1.17,0,0,1,.32.65L30,12.39,32.88,1.25A1.39,1.39,0,0,1,33.22.6a1,1,0,0,1,.65-.16h1.54a.36.36,0,0,1,.41.41,1.36,1.36,0,0,1,0,.26,3.64,3.64,0,0,1-.12.41l-4,12.86a1.3,1.3,0,0,1-.35.65,1,1,0,0,1-.64.16H29.25a1,1,0,0,1-.67-.17,1.26,1.26,0,0,1-.32-.67L25.67,3.64,23.11,14.34a1.26,1.26,0,0,1-.32.67,1,1,0,0,1-.67.17Zm21.36.44a11.28,11.28,0,0,1-2.56-.29,7.44,7.44,0,0,1-1.92-.67,1,1,0,0,1-.61-.93v-.84q0-.52.38-.52a.9.9,0,0,1,.31.06l.42.17a8.77,8.77,0,0,0,1.83.58,9.78,9.78,0,0,0,2,.2,4.48,4.48,0,0,0,2.43-.55,1.76,1.76,0,0,0,.86-1.57,1.61,1.61,0,0,0-.45-1.16A4.29,4.29,0,0,0,43,9.22l-2.41-.76A5.15,5.15,0,0,1,38,6.78a3.94,3.94,0,0,1-.83-2.41,3.7,3.7,0,0,1,.45-1.85,4.47,4.47,0,0,1,1.19-1.37A5.27,5.27,0,0,1,40.51.29,7.4,7.4,0,0,1,42.6,0a8.87,8.87,0,0,1,1.12.07q.57.07,1.08.19t.95.26a4.27,4.27,0,0,1,.7.29,1.59,1.59,0,0,1,.49.41.94.94,0,0,1,.15.55v.79q0,.52-.38.52a1.76,1.76,0,0,1-.64-.2,7.74,7.74,0,0,0-3.2-.64,4.37,4.37,0,0,0-2.21.47,1.6,1.6,0,0,0-.79,1.48,1.58,1.58,0,0,0,.49,1.18,4.94,4.94,0,0,0,1.83.92L44.55,7a5.08,5.08,0,0,1,2.57,1.6A3.76,3.76,0,0,1,47.9,11a4.21,4.21,0,0,1-.44,1.93,4.4,4.4,0,0,1-1.21,1.47,5.43,5.43,0,0,1-1.85.93A8.25,8.25,0,0,1,42.05,15.62Z"></path><path class="cls-2" d="M45.19,23.81C39.72,27.85,31.78,30,25,30A36.64,36.64,0,0,1,.22,20.57c-.51-.46-.06-1.09.56-.74A49.78,49.78,0,0,0,25.53,26.4,49.23,49.23,0,0,0,44.4,22.53C45.32,22.14,46.1,23.14,45.19,23.81Z"></path><path class="cls-2" d="M47.47,21.21c-.7-.9-4.63-.42-6.39-.21-.53.06-.62-.4-.14-.74,3.13-2.2,8.27-1.57,8.86-.83s-.16,5.89-3.09,8.35c-.45.38-.88.18-.68-.32C46.69,25.8,48.17,22.11,47.47,21.21Z"></path></svg>
 
@@ -57,14 +57,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1726763195"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1726763195"></script>
+<script type="text/javascript" src="https://orisandll.github.io/Workshop_AWS1/js/lunr.min.js?1726763333"></script>
+<script type="text/javascript" src="https://orisandll.github.io/Workshop_AWS1/js/auto-complete.js?1726763333"></script>
 <script type="text/javascript">
     
-        var baseurl = "\/";
+        var baseurl = "https:\/\/orisandll.github.io\/Workshop_AWS1\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1726763195"></script>
+<script type="text/javascript" src="https://orisandll.github.io/Workshop_AWS1/js/search.js?1726763333"></script>
 
     
   </div>
@@ -87,7 +87,7 @@
         
         
         ">
-      <a href="/1-introduce/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/1-introduce/">
            <b> 1. </b> Workshop Overview
           
             <i class="fas fa-check read-icon"></i>
@@ -118,7 +118,7 @@
         
         
         ">
-      <a href="/1-introduce/1.1-architecture/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/1-introduce/1.1-architecture/">
            <b> 1.1 </b> Architecture
           
             <i class="fas fa-check read-icon"></i>
@@ -146,7 +146,7 @@
         
         
         ">
-      <a href="/1-introduce/1.2-introtask/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/1-introduce/1.2-introtask/">
            <b> 1.2 </b> Introductory Task: Managing VPC Access Control at Scale
           
             <i class="fas fa-check read-icon"></i>
@@ -174,7 +174,7 @@
         
         
         ">
-      <a href="/1-introduce/1.3-walkthrough-1/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/1-introduce/1.3-walkthrough-1/">
           
           
             <i class="fas fa-check read-icon"></i>
@@ -209,7 +209,7 @@
         
         
         ">
-      <a href="/2-prepare/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/2-prepare/">
            <b> 2. </b> Preparation Steps
           
             <i class="fas fa-check read-icon"></i>
@@ -235,7 +235,7 @@
         
         
         ">
-      <a href="/3-dns-security/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/">
            <b> 3. </b> Track: DNS Security
           
             <i class="fas fa-check read-icon"></i>
@@ -266,7 +266,7 @@
         
         
         ">
-      <a href="/3-dns-security/3.1-laba/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.1-laba/">
            <b> 3.1 </b> Lab A: Gaining visibility into VPC activity
           
             <i class="fas fa-check read-icon"></i>
@@ -297,7 +297,7 @@
         
         
         ">
-      <a href="/3-dns-security/3.1-laba/3.1.1-wa/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.1-laba/3.1.1-wa/">
            <b> 3.1.1 </b> Lab A Guide: Gaining visibility into VPC activity
           
             <i class="fas fa-check read-icon"></i>
@@ -334,7 +334,7 @@
         
         
         ">
-      <a href="/3-dns-security/3.2-labb/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.2-labb/">
            <b> 3.2 </b> Lab B: Implementing a DNS firewall
           
             <i class="fas fa-check read-icon"></i>
@@ -365,7 +365,7 @@
         
         
         ">
-      <a href="/3-dns-security/3.2-labb/3.2.1-wb/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.2-labb/3.2.1-wb/">
            <b> 3.2.1 </b> Lab B Guide: Implementing a DNS firewall
           
             <i class="fas fa-check read-icon"></i>
@@ -409,7 +409,7 @@
         
         
         ">
-      <a href="/4-network-analysis/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/">
            <b> 4. </b> Track: Network Analysis
           
             <i class="fas fa-check read-icon"></i>
@@ -440,7 +440,7 @@
         
         
         ">
-      <a href="/4-network-analysis/4.1-labc/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.1-labc/">
            <b> 4.1 </b> Lab C: Analysing VPC Network Configuration
           
             <i class="fas fa-check read-icon"></i>
@@ -471,7 +471,7 @@
         
         
         ">
-      <a href="/4-network-analysis/4.1-labc/4.1.1-wc/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.1-labc/4.1.1-wc/">
            <b> 4.1.1 </b> Lab C Guide: Analysing VPC Network Configuration
           
             <i class="fas fa-check read-icon"></i>
@@ -508,7 +508,7 @@
         
         
         ">
-      <a href="/4-network-analysis/4.2-labd/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.2-labd/">
            <b> 4.2 </b> Lab D: Mirroring VPC network traffic
           
             <i class="fas fa-check read-icon"></i>
@@ -539,7 +539,7 @@
         
         
         ">
-      <a href="/4-network-analysis/4.2-labd/4.2.1-wd/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.2-labd/4.2.1-wd/">
            <b> 4.2.1 </b> Lab D Guide: Mirroring VPC network traffic
           
             <i class="fas fa-check read-icon"></i>
@@ -583,7 +583,7 @@
         
         
         ">
-      <a href="/5-network-firewall/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/">
            <b> 5. </b> Track: AWS Network Firewall (IPv6)
           
             <i class="fas fa-check read-icon"></i>
@@ -614,7 +614,7 @@
         active
         
         ">
-      <a href="/5-network-firewall/5.1-labe/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/">
            <b> 5.1 </b> Lab E: Setting the routing for AWS Network Firewall
           
             <i class="fas fa-check read-icon"></i>
@@ -645,7 +645,7 @@
         
         
         ">
-      <a href="/5-network-firewall/5.1-labe/5.1.1-we/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/5.1.1-we/">
            <b> 5.1.1 </b> Lab E Guide: Setting the routing for AWS Network Firewall
           
             <i class="fas fa-check read-icon"></i>
@@ -682,7 +682,7 @@
         
         
         ">
-      <a href="/5-network-firewall/5.2-labf/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/">
            <b> 5.2 </b> Lab F: Configuring AWS Network Firewall Rules
           
             <i class="fas fa-check read-icon"></i>
@@ -713,7 +713,7 @@
         
         
         ">
-      <a href="/5-network-firewall/5.2-labf/5.2.1-icmp/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.1-icmp/">
            <b> 5.2.1 </b> Block outbound ICMP
           
             <i class="fas fa-check read-icon"></i>
@@ -741,7 +741,7 @@
         
         
         ">
-      <a href="/5-network-firewall/5.2-labf/5.2.3-domains/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.3-domains/">
            <b> 5.2.3 </b> Drop specific Domains
           
             <i class="fas fa-check read-icon"></i>
@@ -769,7 +769,7 @@
         
         
         ">
-      <a href="/5-network-firewall/5.2-labf/5.2.4-suricata/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.4-suricata/">
            <b> 5.2.4 </b> Using Suricata to inspect traffic content
           
             <i class="fas fa-check read-icon"></i>
@@ -797,7 +797,7 @@
         
         
         ">
-      <a href="/5-network-firewall/5.2-labf/5.2.2-dns/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.2-dns/">
           
           
             <i class="fas fa-check read-icon"></i>
@@ -841,7 +841,7 @@
         
         
         ">
-      <a href="/6-gwlb/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/">
            <b> 6. </b> Track: 3rd-party firewall using Gateway Load Balancer (GWLB)
           
             <i class="fas fa-check read-icon"></i>
@@ -872,7 +872,7 @@
         
         
         ">
-      <a href="/6-gwlb/6.1-labg/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.1-labg/">
            <b> 6.1 </b> Lab G: Configuring Gateway Load Balancer Service
           
             <i class="fas fa-check read-icon"></i>
@@ -903,7 +903,7 @@
         
         
         ">
-      <a href="/6-gwlb/6.1-labg/6.1.1-wg/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.1-labg/6.1.1-wg/">
            <b> 6.1.1 </b> Lab G Guide: Configuring Gateway Load Balancer Service
           
             <i class="fas fa-check read-icon"></i>
@@ -940,7 +940,7 @@
         
         
         ">
-      <a href="/6-gwlb/6.2-labh/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.2-labh/">
            <b> 6.2 </b> Lab H: Configuring Routing for Gateway Load Balancer
           
             <i class="fas fa-check read-icon"></i>
@@ -971,7 +971,7 @@
         
         
         ">
-      <a href="/6-gwlb/6.2-labh/6.2.1-wh/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.2-labh/6.2.1-wh/">
            <b> 6.2.1 </b> Lab H Guide: Configuring Routing for Gateway Load Balancer
           
             <i class="fas fa-check read-icon"></i>
@@ -1015,7 +1015,7 @@
         
         
         ">
-      <a href="/7-waf/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/7-waf/">
            <b> 7. </b> Track: Web Application Firewall
           
             <i class="fas fa-check read-icon"></i>
@@ -1046,7 +1046,7 @@
         
         
         ">
-      <a href="/7-waf/7.1-labi/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/7-waf/7.1-labi/">
            <b> 7.1 </b> Lab I: Protecting Web Applications
           
             <i class="fas fa-check read-icon"></i>
@@ -1077,7 +1077,7 @@
         
         
         ">
-      <a href="/7-waf/7.1-labi/7.1.1-wi/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/7-waf/7.1-labi/7.1.1-wi/">
            <b> 7.1.1 </b> Lab I Guide: Protecting Web Applications
           
             <i class="fas fa-check read-icon"></i>
@@ -1121,7 +1121,7 @@
         
         
         ">
-      <a href="/8-cleanups/">
+      <a href="https://orisandll.github.io/Workshop_AWS1/8-cleanups/">
            <b> 8. </b> Cleanups
           
             <i class="fas fa-check read-icon"></i>
@@ -1173,7 +1173,7 @@
                   
                     
                     
-                      <option id="en" value="/5-network-firewall/5.1-labe/" selected>English</option>
+                      <option id="en" value="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/" selected>English</option>
                     
                   
               
@@ -1187,7 +1187,7 @@
                   
                     
                     
-                      <option id="vi" value="/vi/5-network-firewall/5.1-labe/">Tiếng Việt</option>
+                      <option id="vi" value="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.1-labe/">Tiếng Việt</option>
                     
                   
               
@@ -1277,7 +1277,7 @@
             
           
           
-            <a href='/'>Approaches to layered security for Amazon VPC</a> > <a href='/5-network-firewall/'>Track: AWS Network Firewall (IPv6)</a> > Lab E: Setting the routing for AWS Network Firewall
+            <a href='https://orisandll.github.io/Workshop_AWS1/'>Approaches to layered security for Amazon VPC</a> > <a href='https://orisandll.github.io/Workshop_AWS1/5-network-firewall/'>Track: AWS Network Firewall (IPv6)</a> > Lab E: Setting the routing for AWS Network Firewall
           
         
           
@@ -1365,8 +1365,8 @@ AWS Network Firewall <a href="https://docs.aws.amazon.com/network-firewall/lates
 <p><strong>Ingress Route table</strong>
 Configure the Ingress Route table <a href="https://aws.amazon.com/blogs/aws/new-vpc-ingress-routing-simplifying-integration-of-third-party-appliances/">Ingress Routing</a></p>
 <p><strong>Lab E Architecture</strong>
-<img alt="E1" src="/images/structure/E1.png"></p>
-<p><a href="/5-network-firewall/5.1-labe/5.1.1-we/">Lab E Guide</a></p>
+<img alt="E1" src="https://orisandll.github.io/Workshop_AWS1/images/structure/E1.png"></p>
+<p><a href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/5.1.1-we/">Lab E Guide</a></p>
 
 
 
@@ -1961,10 +1961,10 @@ Configure the Ingress Route table <a href="https://aws.amazon.com/blogs/aws/new-
 	 
 	 
 		
-			<a class="nav nav-prev" href="/5-network-firewall/" title="Track: AWS Network Firewall (IPv6)"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/" title="Track: AWS Network Firewall (IPv6)"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/5-network-firewall/5.1-labe/5.1.1-we/" title="Lab E Guide: Setting the routing for AWS Network Firewall" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/5.1.1-we/" title="Lab E Guide: Setting the routing for AWS Network Firewall" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -1974,19 +1974,19 @@ Configure the Ingress Route table <a href="https://aws.amazon.com/blogs/aws/new-
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1726763195"></script>
-    <script src="/js/perfect-scrollbar.min.js?1726763195"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1726763195"></script>
-    <script src="/js/jquery.sticky.js?1726763195"></script>
-    <script src="/js/featherlight.min.js?1726763195"></script>
-    <script src="/js/highlight.pack.js?1726763195"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/clipboard.min.js?1726763334"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/perfect-scrollbar.min.js?1726763334"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/perfect-scrollbar.jquery.min.js?1726763334"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/jquery.sticky.js?1726763334"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/featherlight.min.js?1726763334"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/highlight.pack.js?1726763334"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1726763195"></script>
-    <script src="/js/learn.js?1726763195"></script>
-    <script src="/js/hugo-learn.js?1726763195"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/modernizr.custom-3.6.0.js?1726763334"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/learn.js?1726763334"></script>
+    <script src="https://orisandll.github.io/Workshop_AWS1/js/hugo-learn.js?1726763334"></script>
 
-    <link href="/mermaid/mermaid.css?1726763195" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1726763195"></script>
+    <link href="https://orisandll.github.io/Workshop_AWS1/mermaid/mermaid.css?1726763334" rel="stylesheet" />
+    <script src="https://orisandll.github.io/Workshop_AWS1/mermaid/mermaid.js?1726763334"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>

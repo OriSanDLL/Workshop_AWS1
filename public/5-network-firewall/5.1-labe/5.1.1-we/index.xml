@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab E Guide: Setting the routing for AWS Network Firewall on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>/5-network-firewall/5.1-labe/5.1.1-we/</link>
+    <link>https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/5.1.1-we/</link>
     <description>Recent content in Lab E Guide: Setting the routing for AWS Network Firewall on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/5-network-firewall/5.1-labe/5.1.1-we/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/5.1.1-we/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

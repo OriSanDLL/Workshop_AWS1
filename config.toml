@@ -1,6 +1,9 @@
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
+canonifyURLs = true
+baseURL = "https://orisandll.github.io/Workshop_AWS1/"
+
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -50,4 +53,3 @@ name = "<i class='fab fa-facebook'></i> AWS Study Group - Nhóm FB"
 identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
-

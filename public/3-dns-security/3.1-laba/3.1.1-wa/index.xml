@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab A Guide: Gaining visibility into VPC activity on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>/3-dns-security/3.1-laba/3.1.1-wa/</link>
+    <link>https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.1-laba/3.1.1-wa/</link>
     <description>Recent content in Lab A Guide: Gaining visibility into VPC activity on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/3-dns-security/3.1-laba/3.1.1-wa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.1-laba/3.1.1-wa/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

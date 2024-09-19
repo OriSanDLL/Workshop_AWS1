@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab C: Analysing VPC Network Configuration on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>/4-network-analysis/4.1-labc/</link>
+    <link>https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.1-labc/</link>
     <description>Recent content in Lab C: Analysing VPC Network Configuration on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/4-network-analysis/4.1-labc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.1-labc/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
