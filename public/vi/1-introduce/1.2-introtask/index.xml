@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nhiệm Vụ Giới Thiệu: Quản Lý Kiểm Soát Truy Cập VPC Ở Quy Mô Lớn on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>//localhost:1313/vi/1-introduce/1.2-introtask/</link>
+    <link>/vi/1-introduce/1.2-introtask/</link>
     <description>Recent content in Nhiệm Vụ Giới Thiệu: Quản Lý Kiểm Soát Truy Cập VPC Ở Quy Mô Lớn on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:1313/vi/1-introduce/1.2-introtask/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/vi/1-introduce/1.2-introtask/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

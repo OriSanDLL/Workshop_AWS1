@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab B Guide: Implementing a DNS firewall on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>//localhost:1313/3-dns-security/3.2-labb/3.2.1-wb/</link>
+    <link>/3-dns-security/3.2-labb/3.2.1-wb/</link>
     <description>Recent content in Lab B Guide: Implementing a DNS firewall on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/3-dns-security/3.2-labb/3.2.1-wb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/3-dns-security/3.2-labb/3.2.1-wb/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

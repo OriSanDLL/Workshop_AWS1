@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab G Guide: Configuring Gateway Load Balancer Service on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>//localhost:1313/6-gwlb/6.1-labg/6.1.1-wg/</link>
+    <link>/6-gwlb/6.1-labg/6.1.1-wg/</link>
     <description>Recent content in Lab G Guide: Configuring Gateway Load Balancer Service on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/6-gwlb/6.1-labg/6.1.1-wg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/6-gwlb/6.1-labg/6.1.1-wg/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

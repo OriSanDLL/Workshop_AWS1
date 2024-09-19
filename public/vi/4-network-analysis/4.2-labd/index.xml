@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab D: Phản chiếu lưu lượng mạng VPC on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>//localhost:1313/vi/4-network-analysis/4.2-labd/</link>
+    <link>/vi/4-network-analysis/4.2-labd/</link>
     <description>Recent content in Lab D: Phản chiếu lưu lượng mạng VPC on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:1313/vi/4-network-analysis/4.2-labd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/vi/4-network-analysis/4.2-labd/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

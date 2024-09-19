@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Track: Network Analysis on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>//localhost:1313/4-network-analysis/</link>
+    <link>/4-network-analysis/</link>
     <description>Recent content in Track: Network Analysis on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/4-network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/4-network-analysis/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

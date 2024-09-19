@@ -2,424 +2,424 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/"
+                href="/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="/"
                 />
   </url><url>
-    <loc>//localhost:1313/1-introduce/1.1-architecture/</loc>
+    <loc>/1-introduce/1.1-architecture/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-introduce/1.1-architecture/"
+                href="/vi/1-introduce/1.1-architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-introduce/1.1-architecture/"
+                href="/1-introduce/1.1-architecture/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/5.2-labf/5.2.1-icmp/</loc>
+    <loc>/5-network-firewall/5.2-labf/5.2.1-icmp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/5.2-labf/5.2.1-icmp/"
+                href="/vi/5-network-firewall/5.2-labf/5.2.1-icmp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/5.2-labf/5.2.1-icmp/"
+                href="/5-network-firewall/5.2-labf/5.2.1-icmp/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-dns-security/3.1-laba/3.1.1-wa/</loc>
+    <loc>/3-dns-security/3.1-laba/3.1.1-wa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-dns-security/3.1-laba/3.1.1-wa/"
+                href="/vi/3-dns-security/3.1-laba/3.1.1-wa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-dns-security/3.1-laba/3.1.1-wa/"
+                href="/3-dns-security/3.1-laba/3.1.1-wa/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-dns-security/3.1-laba/</loc>
+    <loc>/3-dns-security/3.1-laba/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-dns-security/3.1-laba/"
+                href="/vi/3-dns-security/3.1-laba/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-dns-security/3.1-laba/"
+                href="/3-dns-security/3.1-laba/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-dns-security/3.2-labb/3.2.1-wb/</loc>
+    <loc>/3-dns-security/3.2-labb/3.2.1-wb/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-dns-security/3.2-labb/3.2.1-wb/"
+                href="/vi/3-dns-security/3.2-labb/3.2.1-wb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-dns-security/3.2-labb/3.2.1-wb/"
+                href="/3-dns-security/3.2-labb/3.2.1-wb/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-network-analysis/4.1-labc/4.1.1-wc/</loc>
+    <loc>/4-network-analysis/4.1-labc/4.1.1-wc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-network-analysis/4.1-labc/4.1.1-wc/"
+                href="/vi/4-network-analysis/4.1-labc/4.1.1-wc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-network-analysis/4.1-labc/4.1.1-wc/"
+                href="/4-network-analysis/4.1-labc/4.1.1-wc/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-network-analysis/4.1-labc/</loc>
+    <loc>/4-network-analysis/4.1-labc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-network-analysis/4.1-labc/"
+                href="/vi/4-network-analysis/4.1-labc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-network-analysis/4.1-labc/"
+                href="/4-network-analysis/4.1-labc/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-network-analysis/4.2-labd/4.2.1-wd/</loc>
+    <loc>/4-network-analysis/4.2-labd/4.2.1-wd/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-network-analysis/4.2-labd/4.2.1-wd/"
+                href="/vi/4-network-analysis/4.2-labd/4.2.1-wd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-network-analysis/4.2-labd/4.2.1-wd/"
+                href="/4-network-analysis/4.2-labd/4.2.1-wd/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/5.1-labe/5.1.1-we/</loc>
+    <loc>/5-network-firewall/5.1-labe/5.1.1-we/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/5.1-labe/5.1.1-we/"
+                href="/vi/5-network-firewall/5.1-labe/5.1.1-we/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/5.1-labe/5.1.1-we/"
+                href="/5-network-firewall/5.1-labe/5.1.1-we/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/5.1-labe/</loc>
+    <loc>/5-network-firewall/5.1-labe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/5.1-labe/"
+                href="/vi/5-network-firewall/5.1-labe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/5.1-labe/"
+                href="/5-network-firewall/5.1-labe/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-gwlb/6.1-labg/6.1.1-wg/</loc>
+    <loc>/6-gwlb/6.1-labg/6.1.1-wg/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-gwlb/6.1-labg/6.1.1-wg/"
+                href="/vi/6-gwlb/6.1-labg/6.1.1-wg/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-gwlb/6.1-labg/6.1.1-wg/"
+                href="/6-gwlb/6.1-labg/6.1.1-wg/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-gwlb/6.1-labg/</loc>
+    <loc>/6-gwlb/6.1-labg/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-gwlb/6.1-labg/"
+                href="/vi/6-gwlb/6.1-labg/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-gwlb/6.1-labg/"
+                href="/6-gwlb/6.1-labg/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-gwlb/6.2-labh/6.2.1-wh/</loc>
+    <loc>/6-gwlb/6.2-labh/6.2.1-wh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-gwlb/6.2-labh/6.2.1-wh/"
+                href="/vi/6-gwlb/6.2-labh/6.2.1-wh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-gwlb/6.2-labh/6.2.1-wh/"
+                href="/6-gwlb/6.2-labh/6.2.1-wh/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-waf/7.1-labi/7.1.1-wi/</loc>
+    <loc>/7-waf/7.1-labi/7.1.1-wi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-waf/7.1-labi/7.1.1-wi/"
+                href="/vi/7-waf/7.1-labi/7.1.1-wi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-waf/7.1-labi/7.1.1-wi/"
+                href="/7-waf/7.1-labi/7.1.1-wi/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-waf/7.1-labi/</loc>
+    <loc>/7-waf/7.1-labi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-waf/7.1-labi/"
+                href="/vi/7-waf/7.1-labi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-waf/7.1-labi/"
+                href="/7-waf/7.1-labi/"
                 />
   </url><url>
-    <loc>//localhost:1313/1-introduce/</loc>
+    <loc>/1-introduce/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-introduce/"
+                href="/vi/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-introduce/"
+                href="/1-introduce/"
                 />
   </url><url>
-    <loc>//localhost:1313/1-introduce/1.2-introtask/</loc>
+    <loc>/1-introduce/1.2-introtask/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-introduce/1.2-introtask/"
+                href="/vi/1-introduce/1.2-introtask/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-introduce/1.2-introtask/"
+                href="/1-introduce/1.2-introtask/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-dns-security/3.2-labb/</loc>
+    <loc>/3-dns-security/3.2-labb/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-dns-security/3.2-labb/"
+                href="/vi/3-dns-security/3.2-labb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-dns-security/3.2-labb/"
+                href="/3-dns-security/3.2-labb/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-network-analysis/4.2-labd/</loc>
+    <loc>/4-network-analysis/4.2-labd/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-network-analysis/4.2-labd/"
+                href="/vi/4-network-analysis/4.2-labd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-network-analysis/4.2-labd/"
+                href="/4-network-analysis/4.2-labd/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/5.2-labf/</loc>
+    <loc>/5-network-firewall/5.2-labf/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/5.2-labf/"
+                href="/vi/5-network-firewall/5.2-labf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/5.2-labf/"
+                href="/5-network-firewall/5.2-labf/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-gwlb/6.2-labh/</loc>
+    <loc>/6-gwlb/6.2-labh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-gwlb/6.2-labh/"
+                href="/vi/6-gwlb/6.2-labh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-gwlb/6.2-labh/"
+                href="/6-gwlb/6.2-labh/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-prepare/</loc>
+    <loc>/2-prepare/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prepare/"
+                href="/vi/2-prepare/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prepare/"
+                href="/2-prepare/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/5.2-labf/5.2.3-domains/</loc>
+    <loc>/5-network-firewall/5.2-labf/5.2.3-domains/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/5.2-labf/5.2.3-domains/"
+                href="/vi/5-network-firewall/5.2-labf/5.2.3-domains/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/5.2-labf/5.2.3-domains/"
+                href="/5-network-firewall/5.2-labf/5.2.3-domains/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-dns-security/</loc>
+    <loc>/3-dns-security/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-dns-security/"
+                href="/vi/3-dns-security/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-dns-security/"
+                href="/3-dns-security/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-network-analysis/</loc>
+    <loc>/4-network-analysis/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-network-analysis/"
+                href="/vi/4-network-analysis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-network-analysis/"
+                href="/4-network-analysis/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/5.2-labf/5.2.4-suricata/</loc>
+    <loc>/5-network-firewall/5.2-labf/5.2.4-suricata/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/5.2-labf/5.2.4-suricata/"
+                href="/vi/5-network-firewall/5.2-labf/5.2.4-suricata/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/5.2-labf/5.2.4-suricata/"
+                href="/5-network-firewall/5.2-labf/5.2.4-suricata/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/</loc>
+    <loc>/5-network-firewall/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/"
+                href="/vi/5-network-firewall/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/"
+                href="/5-network-firewall/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-gwlb/</loc>
+    <loc>/6-gwlb/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-gwlb/"
+                href="/vi/6-gwlb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-gwlb/"
+                href="/6-gwlb/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-waf/</loc>
+    <loc>/7-waf/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-waf/"
+                href="/vi/7-waf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-waf/"
+                href="/7-waf/"
                 />
   </url><url>
-    <loc>//localhost:1313/8-cleanups/</loc>
+    <loc>/8-cleanups/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-cleanups/"
+                href="/vi/8-cleanups/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-cleanups/"
+                href="/8-cleanups/"
                 />
   </url><url>
-    <loc>//localhost:1313/1-introduce/1.3-walkthrough-1/</loc>
+    <loc>/1-introduce/1.3-walkthrough-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-introduce/1.3-walkthrough-1/"
+                href="/vi/1-introduce/1.3-walkthrough-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-introduce/1.3-walkthrough-1/"
+                href="/1-introduce/1.3-walkthrough-1/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-network-firewall/5.2-labf/5.2.2-dns/</loc>
+    <loc>/5-network-firewall/5.2-labf/5.2.2-dns/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-network-firewall/5.2-labf/5.2.2-dns/"
+                href="/vi/5-network-firewall/5.2-labf/5.2.2-dns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-network-firewall/5.2-labf/5.2.2-dns/"
+                href="/5-network-firewall/5.2-labf/5.2.2-dns/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/categories/"
+                href="/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/"
+                href="/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drop DNS Traffic on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>//localhost:1313/vi/5-network-firewall/5.2-labf/5.2.2-dns/</link>
+    <link>/vi/5-network-firewall/5.2-labf/5.2.2-dns/</link>
     <description>Recent content in Drop DNS Traffic on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:1313/vi/5-network-firewall/5.2-labf/5.2.2-dns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/vi/5-network-firewall/5.2-labf/5.2.2-dns/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
