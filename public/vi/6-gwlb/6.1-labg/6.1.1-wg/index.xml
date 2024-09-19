@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hướng dẫn Lab G: Cấu hình dịch vụ Gateway Load Balancer on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
+    <link>//localhost:1313/vi/6-gwlb/6.1-labg/6.1.1-wg/</link>
+    <description>Recent content in Hướng dẫn Lab G: Cấu hình dịch vụ Gateway Load Balancer on LÀM VIỆC VỚI AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <atom:link href="//localhost:1313/vi/6-gwlb/6.1-labg/6.1.1-wg/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

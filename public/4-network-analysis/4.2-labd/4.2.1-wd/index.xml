@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab D Guide: Mirroring VPC network traffic on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
+    <link>//localhost:1313/4-network-analysis/4.2-labd/4.2.1-wd/</link>
+    <description>Recent content in Lab D Guide: Mirroring VPC network traffic on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/4-network-analysis/4.2-labd/4.2.1-wd/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
