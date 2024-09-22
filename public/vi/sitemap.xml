@@ -2,424 +2,208 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.1-icmp/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/1-introduction/1.1-option/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.1-icmp/"
+                href="http://localhost:1313/Workshop_AWS1/1-introduction/1.1-option/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.1-icmp/"
+                href="http://localhost:1313/Workshop_AWS1/vi/1-introduction/1.1-option/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/1-introduction/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/"
+                href="http://localhost:1313/Workshop_AWS1/1-introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/"
+                href="http://localhost:1313/Workshop_AWS1/vi/1-introduction/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.1-laba/3.1.1-wa/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/2-naa/2.1-lab1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.1-laba/3.1.1-wa/"
+                href="http://localhost:1313/Workshop_AWS1/2-naa/2.1-lab1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.1-laba/3.1.1-wa/"
+                href="http://localhost:1313/Workshop_AWS1/vi/2-naa/2.1-lab1/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.2-labb/3.2.1-wb/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/3-ra/3.1-lab5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.2-labb/3.2.1-wb/"
+                href="http://localhost:1313/Workshop_AWS1/3-ra/3.1-lab5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.2-labb/3.2.1-wb/"
+                href="http://localhost:1313/Workshop_AWS1/vi/3-ra/3.1-lab5/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.1-labc/4.1.1-wc/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/4-nm/4.1-lab7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.1-labc/4.1.1-wc/"
+                href="http://localhost:1313/Workshop_AWS1/4-nm/4.1-lab7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.1-labc/4.1.1-wc/"
+                href="http://localhost:1313/Workshop_AWS1/vi/4-nm/4.1-lab7/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.2-labd/4.2.1-wd/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.2-labd/4.2.1-wd/"
+                href="http://localhost:1313/Workshop_AWS1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.2-labd/4.2.1-wd/"
+                href="http://localhost:1313/Workshop_AWS1/vi/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.1-labe/5.1.1-we/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/2-naa/2.2-lab2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/5.1.1-we/"
+                href="http://localhost:1313/Workshop_AWS1/2-naa/2.2-lab2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.1-labe/5.1.1-we/"
+                href="http://localhost:1313/Workshop_AWS1/vi/2-naa/2.2-lab2/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.1-labg/6.1.1-wg/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/3-ra/3.2-lab6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.1-labg/6.1.1-wg/"
+                href="http://localhost:1313/Workshop_AWS1/3-ra/3.2-lab6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.1-labg/6.1.1-wg/"
+                href="http://localhost:1313/Workshop_AWS1/vi/3-ra/3.2-lab6/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.2-labh/6.2.1-wh/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/4-nm/4.2-lab8/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.2-labh/6.2.1-wh/"
+                href="http://localhost:1313/Workshop_AWS1/4-nm/4.2-lab8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.2-labh/6.2.1-wh/"
+                href="http://localhost:1313/Workshop_AWS1/vi/4-nm/4.2-lab8/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/7-waf/7.1-labi/7.1.1-wi/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/2-naa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/7-waf/7.1-labi/7.1.1-wi/"
+                href="http://localhost:1313/Workshop_AWS1/2-naa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/7-waf/7.1-labi/7.1.1-wi/"
+                href="http://localhost:1313/Workshop_AWS1/vi/2-naa/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/1.1-architecture/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/2-naa/2.3-lab3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/1-introduce/1.1-architecture/"
+                href="http://localhost:1313/Workshop_AWS1/2-naa/2.3-lab3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/1.1-architecture/"
+                href="http://localhost:1313/Workshop_AWS1/vi/2-naa/2.3-lab3/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.1-laba/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/3-ra/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.1-laba/"
+                href="http://localhost:1313/Workshop_AWS1/3-ra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.1-laba/"
+                href="http://localhost:1313/Workshop_AWS1/vi/3-ra/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.1-labc/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/4-nm/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.1-labc/"
+                href="http://localhost:1313/Workshop_AWS1/4-nm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.1-labc/"
+                href="http://localhost:1313/Workshop_AWS1/vi/4-nm/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.1-labe/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/2-naa/2.4-lab4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.1-labe/"
+                href="http://localhost:1313/Workshop_AWS1/2-naa/2.4-lab4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.1-labe/"
+                href="http://localhost:1313/Workshop_AWS1/vi/2-naa/2.4-lab4/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.1-labg/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/5-cleaning/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.1-labg/"
+                href="http://localhost:1313/Workshop_AWS1/5-cleaning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.1-labg/"
+                href="http://localhost:1313/Workshop_AWS1/vi/5-cleaning/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/7-waf/7.1-labi/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/7-waf/7.1-labi/"
+                href="http://localhost:1313/Workshop_AWS1/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/7-waf/7.1-labi/"
+                href="http://localhost:1313/Workshop_AWS1/vi/categories/"
                 />
   </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/</loc>
+    <loc>http://localhost:1313/Workshop_AWS1/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/1-introduce/"
+                href="http://localhost:1313/Workshop_AWS1/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/2-prepare/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/2-prepare/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/2-prepare/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.2-dns/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.2-dns/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.2-dns/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.2-labb/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/3.2-labb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/3.2-labb/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.2-labd/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/4.2-labd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/4.2-labd/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.2-labh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/6.2-labh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/6.2-labh/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/1.2-introtask/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/1-introduce/1.2-introtask/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/1.2-introtask/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.3-domains/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.3-domains/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.3-domains/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/1.3-walkthrough-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/1-introduce/1.3-walkthrough-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/1-introduce/1.3-walkthrough-1/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/3-dns-security/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/3-dns-security/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/4-network-analysis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/4-network-analysis/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.4-suricata/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/5.2-labf/5.2.4-suricata/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/5.2-labf/5.2.4-suricata/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/5-network-firewall/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/5-network-firewall/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/6-gwlb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/6-gwlb/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/7-waf/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/7-waf/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/7-waf/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/8-cleanups/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/8-cleanups/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/8-cleanups/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/categories/"
-                />
-  </url><url>
-    <loc>https://orisandll.github.io/Workshop_AWS1/vi/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://orisandll.github.io/Workshop_AWS1/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://orisandll.github.io/Workshop_AWS1/vi/tags/"
+                href="http://localhost:1313/Workshop_AWS1/vi/tags/"
                 />
   </url>
 </urlset>

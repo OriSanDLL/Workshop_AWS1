@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Approaches to layered security for Amazon VPC on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
-    <link>https://orisandll.github.io/Workshop_AWS1/</link>
-    <description>Recent content in Approaches to layered security for Amazon VPC on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
+    <title>Observing and Diagnosing Your Network on AWS on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
+    <link>http://localhost:1313/Workshop_AWS1/</link>
+    <description>Recent content in Observing and Diagnosing Your Network on AWS on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://orisandll.github.io/Workshop_AWS1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Workshop_AWS1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

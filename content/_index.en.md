@@ -1,26 +1,19 @@
 ---
-title : "Approaches to layered security for Amazon VPC"
+title : "Observing and Diagnosing Your Network on AWS"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 ---
-# Multi-layer Security Approaches for Amazon VPC
+# Observing and Diagnosing Your Network on AWS
 
-### Purpose
+### Overview
+- Network Access Analyzer is a feature that helps identify unintended network access to your resources on AWS. You can use Network Access Analyzer to specify your network access requirements and identify potential network paths that do not meet the specified requirements.
+- Reachability Analyzer is a configuration analysis tool that allows you to perform connectivity tests between a source resource and a destination resource within your virtual private clouds (VPCs). When the destination resource is reachable, Reachability Analyzer provides step-by-step details of the virtual network path between the source and destination. When the destination resource is not reachable, Reachability Analyzer identifies the component blocking it.
+- AWS Network Manager allows you to centrally manage your AWS Cloud WAN core network and AWS Transit Gateway network across AWS accounts, Regions, and on-premises locations.
 
-In this Workshop, practical guidance for securing Amazon VPC will be covered. It is aimed at cloud architects, system administrators, network administrators, and security administrators who are responsible for designing, developing, and running services in AWS.
-
-Therefore, you must know the basics such as subnets, security groups, VPC flow logs. The focus will be on the range of services and additional features that AWS provides to allow you to operate VPC securely. Here, AWS Network Firewall, VPC Network Access Analyzer, Amazon Route 53 Resolver DNS Firewall, AWS Systems Manager, Traffic Mirroring, AWS WAF, Gateway Load Balancer, etc., will be covered. IPv6 will also be used in some labs - but don't worry, please read and follow each step to better understand and master the knowledge!
-
-All examples given will follow best practices for securing, designing, and managing Amazon VPC. Ultimately, you should have an understanding of how and why each of these can be used, and the knowledge needed to apply what you have learned to your own environment.
-
-### Content
-
- 1. [Workshop Overview](1-Introduce/_index.en.md)
- 2. [Preparation Steps](2-Prepare/_index.en.md)
- 3. [Track: DNS Security](3-DNS-Security/_index.en.md)
- 4. [Track: Network Analysis](4-Network-Analysis/_index.en.md)
- 5. [Track: AWS Network Firewall (IPv6)](5-Network-Firewall/_index.en.md)
- 6. [Track: Third-Party Firewall using Gateway Load Balancer (GWLB)](6-GWLB/_index.en.md)
- 7. [Track: Web Application Firewall](7-WAF/_index.en.md)
- 8. [Cleanup](8-Cleanups/_index.en.md)
+### Contents
+1. [Introduction](/1-Introduction/_index.en.md)
+2. [Network Access Analyzer Labs](/2-NAA/_index.en.md)
+3. [VPC Reachability Analyzer Labs](/3-RA/_index.en.md)
+4. [AWS Network Manager Labs](/4-NM/_index.en.md)
+5. [Cleanup](/5-Cleaning/_index.en.md)
